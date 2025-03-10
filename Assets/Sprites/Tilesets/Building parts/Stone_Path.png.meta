@@ -133,7 +133,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -171,7 +171,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -947,7 +947,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stone_Path_0: -1456124896197077522
+      Stone_Path_1: -8257739466732204341
+      Stone_Path_10: 6151355756186615215
+      Stone_Path_11: 4744758726068599037
+      Stone_Path_12: 2070440393465723006
+      Stone_Path_13: 7017582923976231886
+      Stone_Path_14: -1094636131519685412
+      Stone_Path_15: 6527379117876804331
+      Stone_Path_16: 2822834526424374021
+      Stone_Path_17: 5850482088423778737
+      Stone_Path_18: -1213139710725454
+      Stone_Path_19: 2719892061903167856
+      Stone_Path_2: -1605697131828769593
+      Stone_Path_20: 4530308761465771170
+      Stone_Path_21: 7551689400974705372
+      Stone_Path_22: -1211574527383155342
+      Stone_Path_23: -4149051733024379401
+      Stone_Path_24: 313499938997532185
+      Stone_Path_25: 571125050015358737
+      Stone_Path_26: 5108084475917688237
+      Stone_Path_27: 8097123792115920278
+      Stone_Path_28: -1026298235623988106
+      Stone_Path_29: 5014025456683575230
+      Stone_Path_3: 1895653982257074952
+      Stone_Path_30: -2165666063141042776
+      Stone_Path_31: 7829345413658795004
+      Stone_Path_32: -153055507717112719
+      Stone_Path_4: -1982539323137555046
+      Stone_Path_5: 8713748493784770818
+      Stone_Path_6: -1063457783431933410
+      Stone_Path_7: -2811496255758972833
+      Stone_Path_8: 6649911224539276466
+      Stone_Path_9: -5173448313109848897
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
